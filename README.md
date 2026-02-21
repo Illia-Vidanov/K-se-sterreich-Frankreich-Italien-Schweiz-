@@ -12,17 +12,17 @@ Kurzgesagt, alle mögliche Käsesorten für AMS Käsekenner Prüfung 2026.
 
 ### TODO
 
-[x] Käse Österreich
-[ ] Käse Frankreich
-[ ] Käse Schweiz
-[ ] Käse Italien
-[ ] Erweiterung auf Google Marketplace zu bringen
-[ ] Tippfehler
-[ ] Ausfüllen von leeren Teilen
-[x] Fotos
-[ ] Finish add on: anführungszeichen, header
-[ ] Finish README.md (crisis, bedanken, how to)
-[ ] Image compression?
+- [x] Käse Österreich
+- [ ] Käse Frankreich
+- [ ] Käse Schweiz
+- [ ] Käse Italien
+- [ ] Erweiterung auf Google Marketplace zu bringen
+- [ ] Tippfehler
+- [ ] Ausfüllen von leeren Teilen
+- [x] Fotos
+- [ ] Finish add on: anführungszeichen, header
+- [ ] Finish README.md (crisis, bedanken, how to)
+- [ ] Image compression?
 
 
 ### Erweiterung der Stapel
